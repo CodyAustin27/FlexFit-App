@@ -1,40 +1,27 @@
-# FlexFit Mobile App
+FlexFit App
+Description
 
-## Overview
-FlexFit is an adaptive fitness mobile application designed for busy individuals. The app generates workouts based on the user’s available time, equipment, and fitness goals.
+FlexFit is an adaptive fitness application designed to generate workouts based on a user’s available time, equipment, and fitness goals. The app is designed for flexibility and ease of use, making it ideal for individuals with busy schedules.
 
-## Features (Current Progress)
-- Quick Start workout generator screen (UI started)
-- User input selections:
-  - Time available
-  - Equipment available
-  - Fitness goal
-- Basic navigation structure (in progress)
-- Wireframe-based design implementation
+Features
+Dynamic workout generation
+User-friendly interface
+Customizable inputs (time, equipment, goal)
+Expandable backend integration
+Technologies Used
+Android Studio (Kotlin & XML)
+Node.js (backend)
+Express.js
+JSON-based API structure
+Current Status
 
-## Technologies Used
-- Android Studio (Kotlin)
-- GitHub for version control
-- Node.js backend (in development)
+The application currently includes a working user interface and basic workout generation logic. Backend integration and user authentication features are in development.
 
-## Project Structure
-- MainActivity (starting point)
-- UI layout for Quick Start screen
-- Future API integration planned
-
-## How to Run
-1. Open project in Android Studio
-2. Start emulator
-3. Run the application
-
-## Current Status
-The app structure has been created and initial UI development has begun. The layout is based on a wireframe designed to minimize user steps and improve usability.
-
-## Future Improvements
-- Connect to backend API
-- Implement user authentication
-- Add workout generation logic
-- Store workout history
+Future Improvements
+API integration
+User authentication
+Workout tracking
+Enhanced UI/UX
 
 ## Author
 Cody Bradley
