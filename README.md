@@ -1,54 +1,49 @@
-FlexFit App – Module 6 Update
+FlexFit App – Module 7 Update
 Overview
 
-FlexFit is an adaptive fitness application designed to generate workouts based on a user’s available time, equipment, and fitness goals. The purpose of this app is to provide flexible training solutions for users with unpredictable schedules.
+FlexFit is an adaptive fitness application that generates workouts based on a user’s available time, equipment, and fitness goals. The app is designed to provide flexible workout solutions for individuals with busy or unpredictable schedules.
 
-Current Features
-User selects:
-Available time
-Equipment access
-Fitness goal
-App dynamically generates workouts
-Simple and intuitive Android UI
-Functional logic implemented in Kotlin
+Features
+User input system (time, equipment, goal)
+Dynamic workout generation
+Clean Android UI using XML
+Functional Kotlin-based logic
+Structured and scalable codebase
 Technologies Used
 Android Studio
 Kotlin
 XML Layout Design
 GitHub (Version Control)
-Project Progress (Module 6)
-UI layout completed
-User input system implemented
-Workout generation logic created
-App successfully runs on emulator/device
-Code structured for scalability
+Current Status (Module 7)
+Fully functional Android application
+UI and logic successfully implemented
+App tested on emulator/device
+Code organized and maintained in GitHub repository
+Ready for final submission phase
 Version Changelog
 
 v1.0
 
-Initial idea and wireframe
+Initial concept and wireframes
 
 v1.1
 
-Basic UI created
-Input components added
+UI and input components created
 
-v1.2 (Current)
+v1.2
 
-Functional workout generator implemented
-Logic-based workout selection added
-App fully operational
+Workout generation logic implemented
 
-v1.3 (Future)
+v1.3 (Current)
 
+Fully functional app
+Improved logic and UI
+Stable build ready for final phase
+Future Improvements
 Backend API integration
 User authentication
 Workout tracking system
-Future Improvements
-Connect to backend (Node.js API)
-Save user workouts
-Personalized recommendations
-Enhanced UI design
-
+Enhanced UI/UX
 Author
+
 Cody Bradley
